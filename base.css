@@ -32,7 +32,7 @@ header div{
 
 
   #e,#f,#g,#h{
-    background: tomato;
+    background: rgb(224, 98, 25);
     width: 240px;
     height: 250px;
     line-height: 250px;
@@ -44,7 +44,7 @@ header div{
   footer{
     clear:both;
     border:1px dotted black;
-    background: rgb(236, 233, 43);
+    background: rgb(236, 43, 220);
 }
 #i{
     width:480px;
