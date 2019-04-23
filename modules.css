@@ -1,0 +1,67 @@
+
+    @media only screen and (min-width:768px){
+body{
+    width:960px;
+}
+header div{
+    width:960px;
+    height:100px;
+    background:#333;
+}
+
+#b{
+    width:200px;
+    height:600px;
+    line-height:600px;
+    background:rgb(109, 82, 82);
+    float:left;
+}
+ 
+#c{ 
+    width:380px;
+    height:200px;
+    line-height:200px;
+    background:rgb(84, 84, 156);
+   float:left;
+}
+#d{
+    width:380px;
+    height:200px;
+    line-height:200px;
+    background:rgb(206, 150, 66);
+    float:left;
+}
+
+ .two{
+    width: 760px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+ 
+} 
+
+.flexbox{
+background: tomato;
+width: 190px;
+height: 250px;
+line-height: 250px;
+color: white;
+text-align: center;
+border:1px dotted black;
+
+}
+footer{
+    clear:none;
+    background: rgb(236, 233, 43);
+    width: 758px;
+    height: 148px;
+    float: right;
+}
+#i{
+  outline:0;
+    margin-left:auto;
+    margin-right:auto;
+}
+}
